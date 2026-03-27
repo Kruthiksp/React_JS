@@ -1,0 +1,9 @@
+.aside {
+     background-color: rgb(253, 197, 94);
+     height: 80vh;
+     width: 30vw;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}

@@ -1,0 +1,16 @@
+#section {
+  background-color: rgb(249, 249, 125);
+  height: 40vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn {
+     background-color: #000042 ;
+     color: #fff;
+     height: 25px;
+     width: 100px;
+}
